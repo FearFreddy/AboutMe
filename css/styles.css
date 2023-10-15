@@ -180,6 +180,10 @@ hr {
 	width: 70%;
 	max-width: 300px;
 }
+.text-center {
+	text-align: center;
+	padding-bottom: 50px;
+}
 
 .anim-heading .line1 { top: 0; }
 .anim-heading .line2 { bottom: 0; }
